@@ -1,10 +1,12 @@
 ﻿#  #第一章 安装准备
+安装系统用的硬件越高越好，至少要满足：8G内存、300G的硬盘空间。本说明的安装的环境是在Win10系统下，12G内存，I盘空间有318G。另外，还需要准备下述的工具和文件。  
 1、	工具  
 Cygwin  
 Xshell  
 Xftp  
 VirtualBox及其扩展包  
-2、	版本    
+2、	MOS9.0版本    
+在下面地址下载：https://www.mirantis.com/software/openstack/  
 3、	本地源文件  
  MOS9.0本地源下载：http://pan.baidu.com/s/1gfe69iV 密码：b2m5  
 MOS9.0 bootstrap下载：http://pan.baidu.com/s/1gfc4w6n 密码：o9x4  
