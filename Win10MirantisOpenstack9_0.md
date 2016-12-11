@@ -3,8 +3,8 @@
 Cygwin  
 Xshell  
 Xftp  
-VirtualBox，包括  
-2、	版本  
+VirtualBox及其扩展包  
+2、	版本  
 3、	本地源文件  
 
 #  #第二章	安装过程
