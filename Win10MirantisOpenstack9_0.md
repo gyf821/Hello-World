@@ -40,7 +40,7 @@ master安装时，必须使用fuelmenu取消bootstrap设置：
  ![img](https://raw.githubusercontent.com/gyf821/Hello-World/master/pic/bootstrap301.png)  
 使用编辑后的slavelaunch.sh安装slave节点：  
  ![img](https://raw.githubusercontent.com/gyf821/Hello-World/master/pic/bootstrap302.png)  
-等着三个slave节点自动完成即可，下面的选择也不用改变：  
+等着三个slave节点自动完成即可，下面的选择也不用改变：    
  ![img](https://raw.githubusercontent.com/gyf821/Hello-World/master/pic/bootstrap303.png)  
 安装成功后的情况：  
 
